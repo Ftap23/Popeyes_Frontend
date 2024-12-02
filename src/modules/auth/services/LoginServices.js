@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3002/login';
+const API_URL = 'http://popeyes-backend.onrender.com/login';
 
 export const loginUsuario = async (credenciales) => {
     try {

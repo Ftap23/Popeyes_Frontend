@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3002/direcciones';
+const API_URL = 'http://popeyes-backend.onrender.com/direccion';
 
 export const obtenerDirecciones = async () => {
     try{

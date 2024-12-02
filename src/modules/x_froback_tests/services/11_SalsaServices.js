@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3002/salsa';
+const API_URL = 'http://popeyes-backend.onrender.com/salsa';
 
 export const crearSalsa = async (salsa) => {
     try {

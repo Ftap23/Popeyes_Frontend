@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3002/tamaniopapa';
+const API_URL = 'http://popeyes-backend.onrender.com/tamaniopapa';
 
 export const crearTamanioPapa = async (tamaniopapa) => {
     try {

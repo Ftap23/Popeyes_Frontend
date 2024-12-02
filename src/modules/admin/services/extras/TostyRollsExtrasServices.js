@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3002/extra_tostyroll';
+const API_URL = 'http://popeyes-backend.onrender.com/extra_tostyroll';
 
 export const obtenerExtraTostyRoll = async () => {
     try{

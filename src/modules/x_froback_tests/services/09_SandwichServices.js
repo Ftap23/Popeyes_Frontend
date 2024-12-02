@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3002/sandwich';
+const API_URL = 'http://popeyes-backend.onrender.com/sandwich';
 
 export const crearSandwich = async (sandwich) => {
     try {

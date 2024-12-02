@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3002/usuario';
+const API_URL = 'http://popeyes-backend.onrender.com/usuario';
 
 export const obtenerUsuarios = async () => {
     try{

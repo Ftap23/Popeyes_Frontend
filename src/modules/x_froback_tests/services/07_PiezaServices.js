@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3002/pieza';
+const API_URL = 'http://popeyes-backend.onrender.com/pieza';
 
 export const crearPieza = async (pieza) => {
     try {

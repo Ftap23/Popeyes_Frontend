@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3002/comboextra';
+const API_URL = 'http://popeyes-backend.onrender.com/comboextra';
 
 export const crearComboExtra = async (comboExtra) => {
     try {

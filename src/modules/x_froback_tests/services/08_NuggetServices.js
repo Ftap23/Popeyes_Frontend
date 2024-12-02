@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3002/nugget';
+const API_URL = 'http://popeyes-backend.onrender.com/nugget';
 
 export const crearNugget = async (nugget) => {
     try {

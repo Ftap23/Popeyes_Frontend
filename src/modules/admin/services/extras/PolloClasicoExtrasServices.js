@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3002/extra_pieza_pollo_clasica';
+const API_URL = 'http://popeyes-backend.onrender.com/extra_pieza_pollo_clasica';
 
 export const obtenerExtraPolloClasica = async () => {
     try{

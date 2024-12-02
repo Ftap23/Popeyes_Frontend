@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3002/locales';
+const API_URL = 'http://popeyes-backend.onrender.com/locales';
 
 export const obtenerLocales = async () => {
     try{
