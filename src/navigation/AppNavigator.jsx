@@ -26,7 +26,7 @@ import X_LocalesDespachosScreen from '../modules/x_froback_tests/screens/06_Loca
 export default function AppNavigator() {
     return (
         <Routes>
-            <Route path='/' element={<X_Principal/>}/> {/* Aquí debería ir el Principal elaborado por Fernando, de momento esta así para ir más rápido */}
+            <Route path='/' element={<Principal/>}/> {/* Aquí debería ir el Principal elaborado por Fernando, de momento esta así para ir más rápido */}
             <Route path='/principal' element={<Principal/>}/>
             <Route path='/login' element={<Login/>}/>
             <Route path='/signup' element={<SignUp/>}/>
