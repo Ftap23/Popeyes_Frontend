@@ -14,7 +14,7 @@ export const Header = () => {
         <nav className="nav">
             <div className="container-img">
                 <Link to='/x_principal'>
-                    <img id="logo" src="https://www.popeyes.com.pe/" alt="Logo" />
+                    <img id="logo" src="https://www.popeyes.com.pe/static/version1732798112/frontend/Ngr/popeyes/es_PE/images/logo.svg" alt="Logo" />
                 </Link>
             </div>
 
@@ -28,7 +28,7 @@ export const Header = () => {
                         <Link to="/menu">Menu</Link>
                     </li>
                     <li>
-                        <Link to="/pedidos">Mis pedidos</Link>
+                        <Link to="/mispedidos">Mis pedidos</Link>
                     </li>
                     <li>
                         <Link to="/locales">Locales</Link>
