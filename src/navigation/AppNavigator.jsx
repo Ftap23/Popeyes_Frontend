@@ -9,7 +9,7 @@ import SignUp from '../modules/auth/screens/SignUpScreen';
 import MisPedidos from '../modules/mispedidos/screens/MisPedidosScreen';
 import Locales from '../modules/locales/screens/LocalesScreen';
 import Menu from '../modules/menu/screens/MenuScreen';
-import AgregarPedido from '../modules/agregar_pedido/screens/AgregarPedido'
+import AgregarPedido from '../modules/agregar_pedido/screens/AgregarPedido';
 import Dashboard from '../modules/admin/screens/DashboardScreen';
 import Combos_Admin from '../modules/admin/screens/Combos_Admin_Screen';
 import Combos_Admin_Detalle from '../modules/admin/screens/Combos_Admin_Detalle'
