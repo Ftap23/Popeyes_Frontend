@@ -13,8 +13,8 @@ export const Header = () => {
     return (
         <nav className="nav">
             <div className="container-img">
-                <Link to='/'>
-                    <img id="logo" src="/logo.png" alt="Logo" />
+                <Link to='/x_principal'>
+                    <img id="logo" src="https://www.popeyes.com.pe/" alt="Logo" />
                 </Link>
             </div>
 

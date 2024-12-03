@@ -27,6 +27,7 @@ export default function AppNavigator() {
     return (
         <Routes>
             <Route path='/Popeyes_Frontend/' element={<Principal/>}/> {/* Aquí debería ir el Principal elaborado por Fernando, de momento esta así para ir más rápido */}
+            <Route path='/x_principal' element={<X_Principal/>}/>
             <Route path='/principal' element={<Principal/>}/>
             <Route path='/login' element={<Login/>}/>
             <Route path='/signup' element={<SignUp/>}/>

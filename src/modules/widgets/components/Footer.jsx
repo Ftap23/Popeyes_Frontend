@@ -9,7 +9,7 @@ export const Footer = () => {
                 <div className="footer">
                     <div className="texto">
                         <div className="container-izq">
-                            <img id="logo_a" src="/logo.png" alt="Logo"/>
+                            <img id="logo_a" src="https://www.popeyes.com.pe/static/version1732798112/frontend/Ngr/popeyes/es_PE/images/logo.svg" alt="Logo"/>
                             <div>
                                 Conéctate con nosotros
                                 <div className="rs">
@@ -46,7 +46,7 @@ export const Footer = () => {
                                     <li id="titulo">Libro de Reclamaciones</li>
                                     <li>
                                         <a href="https://www.popeyes.com.pe/popeyes-reclamaciones/">
-                                        <img id="libro" src="/fotos_footer/LibroDeReclamaciones.png" alt="Libro"/>
+                                        <img id="libro" src="https://www.popeyes.com.pe/static/version1732798112/frontend/Ngr/popeyes/es_PE/images/libro-de-reclamaciones.jpg" alt="Libro"/>
                                         </a>
                                     </li>
                                 </ul>       
@@ -55,9 +55,9 @@ export const Footer = () => {
                             <div className="metodos">
                                 <ul className="met">
                                     <li id="titulo">Métodos de Pago</li>
-                                    <li id="tarjetas"><img id="visa" src="/fotos_footer/Visa.avif" alt="Visa"></img>
-                                <img id="master" src="/fotos_footer/mastercard.png" alt="Mastercard"></img>
-                                <img id="amex" src="/fotos_footer/amex.png" alt="Amex"></img></li>
+                                    <li id="tarjetas"><img id="visa" src="https://www.popeyes.com.pe/static/version1732798112/frontend/Ngr/popeyes/es_PE/images/payment/visa.jpg" alt="Visa"></img>
+                                <img id="master" src="https://www.popeyes.com.pe/static/version1732798112/frontend/Ngr/popeyes/es_PE/images/payment/master.jpg" alt="Mastercard"></img>
+                                <img id="amex" src="https://www.popeyes.com.pe/static/version1732798112/frontend/Ngr/popeyes/es_PE/images/payment/amex.jpg" alt="Amex"></img></li>
                                 </ul>
                             </div>
                         </div>
