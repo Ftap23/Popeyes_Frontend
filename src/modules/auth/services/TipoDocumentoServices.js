@@ -1,4 +1,4 @@
-const API_URL = 'http://popeyes-backend.onrender.com/tipodocumento';
+const API_URL = 'https://popeyes-backend.onrender.com/tipodocumento';
 
 export const obtenerTipoDocumentos = async () => {
     try{

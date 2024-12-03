@@ -1,4 +1,4 @@
-const API_URL = 'http://popeyes-backend.onrender.com/despacho';
+const API_URL = 'https://popeyes-backend.onrender.com/despacho';
 
 export const obtenerDespacho = async () => {
     try{

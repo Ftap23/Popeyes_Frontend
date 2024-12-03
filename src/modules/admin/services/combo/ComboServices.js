@@ -1,4 +1,4 @@
-const API_URL = 'http://popeyes-backend.onrender.com/combo';
+const API_URL = 'https://popeyes-backend.onrender.com/combo';
 
 export const obtenerCombos = async () => {
     try {
